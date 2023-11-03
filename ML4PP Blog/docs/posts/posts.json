@@ -1,0 +1,26 @@
+[
+  {
+    "path": "posts/2023-11-03-introduction/",
+    "title": "Introduction to R and Python",
+    "description": "This post serves as a discussion board for the first tab\nin the ML4PP course: Introduction to R and Python and, of course,\na general welcome to the course.",
+    "author": [
+      {
+        "name": "Michelle González Amador",
+        "url": {}
+      }
+    ],
+    "date": "2023-11-03",
+    "categories": [
+      "R",
+      "Rstudio",
+      "Python",
+      "Welcome"
+    ],
+    "contents": "\nOverview\nWe know starting a new programming language can be challenging. Hopefully, you were able to follow the brief R and Python introductions. If you found difficulties, feel free to leave a message here.\n\n\n\n",
+    "preview": "posts/2023-11-03-introduction/pythonR.png",
+    "last_modified": "2023-11-03T22:18:57+01:00",
+    "input_file": {},
+    "preview_width": 1080,
+    "preview_height": 1920
+  }
+]

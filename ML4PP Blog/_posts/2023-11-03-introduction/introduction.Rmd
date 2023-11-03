@@ -1,0 +1,29 @@
+---
+title: "Introduction to R and Python"
+description: |
+  This post serves as a discussion board for the first tab
+  in the ML4PP course: Introduction to R and Python and, of course,
+  a general welcome to the course.
+
+preview: pythonR.png
+categories:
+    - R
+    - Rstudio
+    - Python
+    - Welcome
+author:
+    - name: Michelle González Amador
+      affiliation: UNU-MERIT and Maastricht University
+      orcid_id: 0000-0003-0265-4545
+base_url: https://ml4pp-blog.com/
+output:
+  distill::distill_article:
+    self_contained: false
+citation: false
+rss:
+  full_content: true
+---
+
+## Overview
+
+We know starting a new programming language can be challenging. Hopefully, you were able to follow the brief R and Python introductions. If you found difficulties, feel free to leave a message here.

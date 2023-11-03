@@ -1,0 +1,24 @@
+---
+name: "ML4PP-Blog"
+title: "Machine Learning for Public Policy Blog"
+description: |
+  Blog-style discussion board. Companion site to the ML4PP course website.
+output_dir: "docs"
+base_url: https://ml4pp-blog.com/
+#collections:
+#    posts:
+#        disqus: ML4PP-Blog
+navbar:
+  logo: images/ML4PP_blog_logo.png
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+rss:
+  full_content: true
+citations: false
+theme: increase_logo.css
+output: distill::distill_article
+---
+
