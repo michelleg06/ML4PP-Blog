@@ -28,4 +28,4 @@ rss:
 
 We know starting a new programming language can be challenging. Hopefully, you were able to follow the brief R and Python introductions. If you found difficulties, feel free to leave a message here.
 
-**Under Construction**
+**Under Construction** v2
