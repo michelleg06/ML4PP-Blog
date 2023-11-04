@@ -9,7 +9,7 @@
         "url": {}
       }
     ],
-    "date": "2023-11-03",
+    "date": "2023-11-04",
     "categories": [
       "R",
       "Rstudio",
@@ -18,8 +18,8 @@
     ],
     "contents": "\nOverview\nWe know starting a new programming language can be challenging. Hopefully, you were able to follow the brief R and Python introductions. If you found difficulties, feel free to leave a message here.\nUnder Construction v2\n\n\n\n",
     "preview": "posts/2023-11-03-introduction/pythonR.png",
-    "last_modified": "2023-11-03T22:54:02+01:00",
-    "input_file": "introduction.knit.md",
+    "last_modified": "2023-11-04T09:27:27+01:00",
+    "input_file": {},
     "preview_width": 1080,
     "preview_height": 1920
   }

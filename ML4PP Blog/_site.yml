@@ -5,9 +5,9 @@ description: |
   Blog-style discussion board. Companion site to the ML4PP course website.
 output_dir: "docs"
 base_url: https://ml4pp-blog.com/
-#collections:
-#    posts:
-#        disqus: ML4PP-Blog
+collections:
+    posts:
+        disqus: ml4pp
 navbar:
   logo: images/ML4PP_blog_logo.png
   right:
