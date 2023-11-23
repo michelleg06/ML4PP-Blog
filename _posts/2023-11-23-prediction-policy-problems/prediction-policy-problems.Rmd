@@ -1,0 +1,34 @@
+---
+title: "Prediction Policy Problems"
+description: |
+  This post serves as a discussion board for the second tab
+  in the ML4PP course: Prediction Policy Problems.
+
+preview: predpod.png
+categories:
+    - Prediction
+    - Policy
+    - Linear Regression
+    - Lasso
+    - R
+    - Python
+author:
+    - name: Michelle González Amador
+      affiliation: UNU-MERIT and Maastricht University
+      orcid_id: 0000-0003-0265-4545
+base_url: https://ml4pp-blog.com/
+output:
+  distill::distill_article:
+    self_contained: false
+citation: false
+rss:
+  full_content: true
+---
+
+## Overview
+
+In the [Prediction Policy Problems](https://www.ml4publicpolicy.com/predictionpolicy.html) tab of the ML4PP site there was a brief introduction to what a Prediction Policy Problem is. Furthermore, an use-case on Social Protection Policy was introduced, and we embarked on a machine learning mission: what algorithm can help us predict the prevalence of poverty in Malawi best? 
+
+Please feel free to leave a comment here if you have any questions about what constitutes a prediction policy problem, how to identify a social need for prediction, or if you have any questions about the practical applications in R or Python. As always, you can also leave a comment to suggest a date to meet up in [Gather.Town](https://app.gather.town/app/oHbUVQSaCs7SOToI/ML%20for%20Public%20Policy) with other people so you can chat in real time!
+
+Happy coding, everyone! 

@@ -7,28 +7,37 @@
     <description>Blog-style discussion board. Companion site to the ML4PP course website.
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Introduction to R and Python</title>
       <dc:creator>Michelle González Amador</dc:creator>
       <link>https://ml4pp-blog.com/posts/2023-11-03-introduction</link>
-      <description>
-
-
-&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
-&lt;p&gt;We know starting a new programming language can be challenging.
-Hopefully, you were able to follow the brief R and Python introductions.
-If you found difficulties, feel free to leave a message here.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Under Construction&lt;/strong&gt; v2.1&lt;/p&gt;
-&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
-      <distill:md5>6976e3bbc6001ae51d93626d64d9864b</distill:md5>
+      <description>This post serves as a discussion board for the first tab
+in the ML4PP course: Introduction to R and Python and, of course,
+a general welcome to the course.</description>
       <category>R</category>
       <category>Rstudio</category>
       <category>Python</category>
       <category>Welcome</category>
       <guid>https://ml4pp-blog.com/posts/2023-11-03-introduction</guid>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       <media:content url="https://ml4pp-blog.com/posts/2023-11-03-introduction/pythonR.png" medium="image" type="image/png" width="1080" height="1920"/>
+    </item>
+    <item>
+      <title>Prediction Policy Problems</title>
+      <dc:creator>Michelle González Amador</dc:creator>
+      <link>https://ml4pp-blog.com/posts/2023-11-23-prediction-policy-problems</link>
+      <description>This post serves as a discussion board for the second tab
+in the ML4PP course: Prediction Policy Problems.</description>
+      <category>Prediction</category>
+      <category>Policy</category>
+      <category>Linear Regression</category>
+      <category>Lasso</category>
+      <category>R</category>
+      <category>Python</category>
+      <guid>https://ml4pp-blog.com/posts/2023-11-23-prediction-policy-problems</guid>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://ml4pp-blog.com/posts/2023-11-23-prediction-policy-problems/predpod.png" medium="image" type="image/png" width="344" height="284"/>
     </item>
   </channel>
 </rss>

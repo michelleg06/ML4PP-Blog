@@ -26,6 +26,22 @@ rss:
 
 ## Overview
 
-We know starting a new programming language can be challenging. Hopefully, you were able to follow the brief R and Python introductions. If you found difficulties, feel free to leave a message here.
+We know starting a new programming language can be challenging. Hopefully, you were able to follow the brief R and Python introductory tutorials. If you found difficulties, feel free to leave a message here.
 
-**Under Construction** v2.1
+**Script elegance**
+
+The two introductory scripts, for R and Python, are meant to give you a quick glimpse of the language. They're by no means elegant. Perhaps a few standard points that were not discussed in the tutorial but that you can take away if you decide to write a script:
+
++ When you assign a name to an object, make sure that it is informative. When you start a new project, you might even write down a naming convention. For instance: 
+    + All variables that measure some form of spending will begin with spend_*
+    + If the measurement is related to the individual, it should end by the subscript _i*
++ Try to contain all instructions related to packages, libraries, and function imports at the beginning of your script, in one chunk. I have broken this rule in the python script (oops!). Do as I say, not as I do. If you realise that you need to load a new library as you go alog (this is perfectly normal!) go back to the section of your script where all that is kept and load it there. It makes for a cleaner look and for easier reproduction of your code. 
++ For R, make sure to keep a header containing the R and Rstudio versions you're using. This is important for transparency and reproducibility of your your code. 
++ For Python, make sure you create a virtual environment before starting a script. This is important for reproducibility of your code, as it contains all the installations needed to execute your script. 
++ In Python, if you're collaborating with other people, you might want to include a 'requirements.txt' file in your project folder to let others know what installations they might need before attempting to run your script. You can create such a file with a [simple command.](https://pip.pypa.io/en/stable/cli/pip_freeze/)
+
+The list above is not exhaustive, and I am far from an expert on this particular topic. Nonetheless, I hope it is helpful, and that you'll learn more and better ways to keep your script up to standard! 
+
+**A final thought**
+
+For R, the Rstudio IDE is excellent and free (open source!). However, Python doesn't have a default user interface. PyCharm is a popular IDE, but it is not free. Personally, I enjoy using Visual Studio Code (and I recommend it), because it is free (hooray!) and it has lots of plugins that are quite helpful. Jupyter Notebook (stands for Julia-Python-R) is also free, user-friendly, and quite popular. For those of you not averse to working with Google products, you can also use the Collaboratory to write scripts. Ultimately, this is a personal preference. Choose wisely and happy coding! 
