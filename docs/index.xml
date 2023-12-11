@@ -7,7 +7,23 @@
     <description>Blog-style discussion board. Companion site to the ML4PP course website.
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Logistic Classification</title>
+      <dc:creator>Michelle González Amador</dc:creator>
+      <link>https://ml4pp-blog.com/posts/2023-12-11-logistic-classification</link>
+      <description>This post serves as a discussion board for the third tab
+in the ML4PP course: Supervised Classification: Logistic Regression.</description>
+      <category>Prediction</category>
+      <category>Policy</category>
+      <category>Logistic Regression</category>
+      <category>Classification</category>
+      <category>R</category>
+      <category>Python</category>
+      <guid>https://ml4pp-blog.com/posts/2023-12-11-logistic-classification</guid>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://ml4pp-blog.com/posts/2023-12-11-logistic-classification/LogitpythonR.png" medium="image" type="image/png" width="831" height="634"/>
+    </item>
     <item>
       <title>Introduction to R and Python</title>
       <dc:creator>Michelle González Amador</dc:creator>
@@ -21,7 +37,7 @@ a general welcome to the course.</description>
       <category>Welcome</category>
       <guid>https://ml4pp-blog.com/posts/2023-11-03-introduction</guid>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <media:content url="https://ml4pp-blog.com/posts/2023-11-03-introduction/pythonR.png" medium="image" type="image/png" width="1080" height="1920"/>
+      <media:content url="https://ml4pp-blog.com/posts/2023-11-03-introduction/pythonR.png" medium="image" type="image/png" width="898" height="548"/>
     </item>
     <item>
       <title>Prediction Policy Problems</title>

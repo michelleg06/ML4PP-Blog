@@ -9,7 +9,7 @@ collections:
     posts:
         disqus: ml4pp
 navbar:
-  logo: images/ML4PP_blog_logo.png
+  logo: images/ML4PP.png
   right:
     - text: "Home"
       href: index.html

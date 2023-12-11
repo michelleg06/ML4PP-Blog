@@ -1,5 +1,31 @@
 [
   {
+    "path": "posts/2023-12-11-logistic-classification/",
+    "title": "Logistic Classification",
+    "description": "This post serves as a discussion board for the third tab\nin the ML4PP course: Supervised Classification: Logistic Regression.",
+    "author": [
+      {
+        "name": "Michelle González Amador",
+        "url": {}
+      }
+    ],
+    "date": "2023-12-11",
+    "categories": [
+      "Prediction",
+      "Policy",
+      "Logistic Regression",
+      "Classification",
+      "R",
+      "Python"
+    ],
+    "contents": "\nOverview\nIn the Classification:Logistic tab of the ML4PP site, Stephan introduced us to a simple binary classification algorithm: the logistic regression. In the previous session, we hinted at the possibility of improving our prediction model. Based on the results of a binary prediction - an individual in Malawi is considered poor if they ball on or below some income threshold - using a logistic regression, we have indeed marginally improved our prediction abilities. Although a simple algorithm, do not underestimate the predictive power of a logistic regression! Complex social problems can sometimes be aided by simple tools. Besides our targeting project (we’re in it for the long haul! … or until we have reached a point where we can no longer improve our predictions), another interesting social good problem that has been tackled by a logistic regression is that of Predicting Micronutrient Deficiency by Elizabeth Bondi-Kelly and friends. Their (logistic) model, which uses satellite imagery, is accurate and outperforms more traditional survey methods. Being able to predict regions that are at risk of malnutrition is key for Health Policymakers to make informed decisions about when and where to allocate vitamins, supplements, or other resources to combat or even prevent it.\nPlease feel free to leave a comment here if you have any questions about binary classification models, in particular a logistic regression model, and how to assess its performance using R or Python. As always, you can also leave a comment to suggest a date to meet up in Gather.Town with other people so you can chat in real time!\nHappy coding, everyone!\n\n\n\n",
+    "preview": "posts/2023-12-11-logistic-classification/LogitpythonR.png",
+    "last_modified": "2023-12-11T15:58:19+01:00",
+    "input_file": {},
+    "preview_width": 831,
+    "preview_height": 634
+  },
+  {
     "path": "posts/2023-11-03-introduction/",
     "title": "Introduction to R and Python",
     "description": "This post serves as a discussion board for the first tab\nin the ML4PP course: Introduction to R and Python and, of course,\na general welcome to the course.",
@@ -20,8 +46,8 @@
     "preview": "posts/2023-11-03-introduction/pythonR.png",
     "last_modified": "2023-11-23T15:03:28+01:00",
     "input_file": {},
-    "preview_width": 1080,
-    "preview_height": 1920
+    "preview_width": 898,
+    "preview_height": 548
   },
   {
     "path": "posts/2023-11-23-prediction-policy-problems/",
