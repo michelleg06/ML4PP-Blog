@@ -1,5 +1,31 @@
 [
   {
+    "path": "posts/2023-12-31-random-forests/",
+    "title": "Random Forests",
+    "description": "This post serves as a discussion board for the fourth tab\nin the ML4PP course: Tree-based methods: Random Forests",
+    "author": [
+      {
+        "name": "Michelle González Amador",
+        "url": {}
+      }
+    ],
+    "date": "2023-12-31",
+    "categories": [
+      "Prediction",
+      "Tree-based methods",
+      "Random Forests",
+      "Classification",
+      "R",
+      "Python"
+    ],
+    "contents": "\nLast post of 2023!\nIn the Tree-models:RandomForests tab of the ML4PP site, Francisco presented the concept of decision trees and how to use the idea of common regions to split data spaces and make more accurate predictions. The results of a simple and a hyperparameter fine-tuned random forest model (a bagged tree-based model) exercise on the Malawi data showed that our original predictions using a logistic classification approach were just as good as more complex machine learning algorithms. Choosing a Random Forest algorithm to increase our prediction ability was not random. In their paper, Is Random Forest a Superior Methodology for Predicting Poverty? An Empirical Assessment, Pave-Stohnensen and Stender find that this tree-based model is often more accurate at predicting poverty than more traditional econometric models. Whilst we found no big improvement in our exercise, we did see a very minor increase in assessment metric(s). I encourage you to read the suggested readings on the ML4PP course landing page for the tree-based models session. Stephan (who introduced us to Logistic regressions) and Francisco (our host for this lesson) co-authored a very interesting paper on Child Marriage in South Asia. You’ll find the link there ;).\nAs always, please feel free to leave a comment here if you have any questions about decision trees, random forests, and how to assess their performance using R or Python. You can also leave a comment to suggest a date to meet up in Gather.Town with other people so you can chat in real time!\nHappy coding, and happy holidas!\n\n\n\n",
+    "preview": "posts/2023-12-31-random-forests/RandomForestRobot.png",
+    "last_modified": "2023-12-31T13:57:05+01:00",
+    "input_file": {},
+    "preview_width": 849,
+    "preview_height": 453
+  },
+  {
     "path": "posts/2023-12-11-logistic-classification/",
     "title": "Logistic Classification",
     "description": "This post serves as a discussion board for the third tab\nin the ML4PP course: Supervised Classification: Logistic Regression.",

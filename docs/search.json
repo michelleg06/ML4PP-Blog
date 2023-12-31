@@ -6,14 +6,14 @@
       "description": "Feel free to share your thoughts.",
       "author": [],
       "contents": "\n\n\nAs you go through the materials in the Machine Learning for Public Policy site, you may find yourself curious about what others learned from the tutorials. Or, you might run into trouble when trying to replicate the task locally. For those, or any other thoughts you may want to share, we’ll open a blog post to which you can react by leaving a message. The course coordinators or your peers can reply to you. If you’d like to receive responses privately, leave your email in the comment!\n\n\n\n",
-      "last_modified": "2023-12-11T16:01:05+01:00"
+      "last_modified": "2023-12-31T13:57:14+01:00"
     },
     {
       "path": "index.html",
       "title": "Machine Learning for Public Policy Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-12-11T16:01:05+01:00"
+      "last_modified": "2023-12-31T13:57:14+01:00"
     }
   ],
   "collections": ["posts/posts.json"]

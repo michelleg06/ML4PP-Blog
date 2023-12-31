@@ -1,0 +1,35 @@
+---
+title: "Random Forests"
+description: |
+  This post serves as a discussion board for the fourth tab
+  in the ML4PP course: Tree-based methods: Random Forests
+
+preview: RandomForestRobot.png
+categories:
+    - Prediction
+    - Tree-based methods
+    - Random Forests
+    - Classification
+    - R
+    - Python
+author:
+    - name: Michelle González Amador
+      affiliation: UNU-MERIT and Maastricht University
+      orcid_id: 0000-0003-0265-4545
+base_url: https://ml4pp-blog.com/
+output:
+  distill::distill_article:
+    self_contained: false
+citation: false
+rss:
+  full_content: true
+---
+
+## Last post of 2023!
+
+In the [Tree-models:RandomForests](https://www.ml4publicpolicy.com/treebasedmodels.html) tab of the ML4PP site, Francisco presented the concept of decision trees and how to use the idea of common regions to split data spaces and make more accurate predictions. The results of a simple and a hyperparameter fine-tuned random forest model (a bagged tree-based model) exercise on the Malawi data showed that our original predictions using a logistic classification approach were just as good as more complex machine learning algorithms. Choosing a Random Forest algorithm to increase our prediction ability was not random. In their paper, [Is Random Forest a Superior Methodology for Predicting Poverty? An Empirical Assessment](https://doi.org/10.1002/pop4.169), Pave-Stohnensen and Stender find that this tree-based model is often more accurate at predicting poverty than more traditional econometric models. Whilst we found no big improvement in our exercise, we did see a very minor increase in assessment metric(s). I encourage you to read the suggested readings on the ML4PP course landing page for the tree-based models session. Stephan (who introduced us to Logistic regressions) and Francisco (our host for this lesson) co-authored a very interesting paper on Child Marriage in South Asia. You'll find the link there ;). 
+
+
+As always, please feel free to leave a comment here if you have any questions about decision trees, random forests, and how to assess their performance using R or Python. You can also leave a comment to suggest a date to meet up in [Gather.Town](https://app.gather.town/app/oHbUVQSaCs7SOToI/ML%20for%20Public%20Policy) with other people so you can chat in real time!
+
+Happy coding, and happy holidas! 
