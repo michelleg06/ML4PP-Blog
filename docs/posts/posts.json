@@ -1,5 +1,31 @@
 [
   {
+    "path": "posts/2024-02-19-neural-networks/",
+    "title": "Neural Networks",
+    "description": "This post serves as a discussion board for the neural networks\nsession of the ML4PP course.",
+    "author": [
+      {
+        "name": "Michelle González Amador",
+        "url": {}
+      }
+    ],
+    "date": "2024-02-19",
+    "categories": [
+      "Prediction",
+      "Neural Networks",
+      "Retirement policies",
+      "Classification",
+      "R",
+      "Python"
+    ],
+    "contents": "\nFirst post of 2024!\nThe session on Neural Networks is the last session of the course, and the precursor to the Collaborative Policy Challenge where, hopefully, you’ll apply one of the algorithms that you have learned here. You’ll notice that the applied neural network exercise is a classification problem. But, in the video, Robin (or Prof. Cowan) used various examples using images (a horse, and other farm animals). This is because one of the very many things a neural network can do is read the pixel values in an image. So, you can actually use a neural network to predict images! We’ve not done that in the session, but it is a possibility. An paper that generates interesting insights for voting behaviour is Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States. They use Google Street View images and neural networks for their prediction model. Neural Networks are very popular today, they’re also very flexible, but as Robin pointed out in his video, and in the applied exercise, the algorithm is (a very nice) tool, and it is still subject to the same data challenges that plague the use and misuse of machine learning algorithms. Hopefully, you’ve enjoyed Robin’s lesson as much as we have. You can reproduce the R code - as is - by requesting the SHARE dataset from the website. If you’ve been following the Python sessions, please reach out to me (Michelle), as we’ve used the already clean dataset - so, to replicate the code, you’ll need a few more steps beyond requesting access to the data.\nFinally, let me remind you all that the Collaborative Policy Challenge on Human Mobility (with an emphasis on forced displacement) set by the Innovation Office of UNHCR is upcoming! In the next couple of weeks we’ll invite you to the live session with the Lead Data Scientist, Rebeca Moreno Jiménez, and open the month-long challenge to be tackled in teams. If you cannot join the live-zoom session, the recording will be posten on the ML4PP website, as always.\nHappy coding, and looking forward to the policy challenge!\n\n\n\n",
+    "preview": "posts/2024-02-19-neural-networks/NeuralNetRobot2.png",
+    "last_modified": "2024-02-19T18:54:40+01:00",
+    "input_file": {},
+    "preview_width": 967,
+    "preview_height": 810
+  },
+  {
     "path": "posts/2023-12-31-random-forests/",
     "title": "Random Forests",
     "description": "This post serves as a discussion board for the fourth tab\nin the ML4PP course: Tree-based methods: Random Forests",

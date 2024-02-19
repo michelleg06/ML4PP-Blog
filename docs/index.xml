@@ -7,7 +7,23 @@
     <description>Blog-style discussion board. Companion site to the ML4PP course website.
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Neural Networks</title>
+      <dc:creator>Michelle González Amador</dc:creator>
+      <link>https://ml4pp-blog.com/posts/2024-02-19-neural-networks</link>
+      <description>This post serves as a discussion board for the neural networks
+session of the ML4PP course.</description>
+      <category>Prediction</category>
+      <category>Neural Networks</category>
+      <category>Retirement policies</category>
+      <category>Classification</category>
+      <category>R</category>
+      <category>Python</category>
+      <guid>https://ml4pp-blog.com/posts/2024-02-19-neural-networks</guid>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <media:content url="https://ml4pp-blog.com/posts/2024-02-19-neural-networks/NeuralNetRobot2.png" medium="image" type="image/png" width="967" height="810"/>
+    </item>
     <item>
       <title>Random Forests</title>
       <dc:creator>Michelle González Amador</dc:creator>

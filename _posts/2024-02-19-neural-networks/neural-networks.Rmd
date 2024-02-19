@@ -1,0 +1,34 @@
+---
+title: "Neural Networks"
+description: |
+  This post serves as a discussion board for the neural networks
+  session of the ML4PP course.
+
+preview: NeuralNetRobot2.png
+categories:
+    - Prediction
+    - Neural Networks
+    - Retirement policies
+    - Classification
+    - R
+    - Python
+author:
+    - name: Michelle González Amador
+      affiliation: UNU-MERIT and Maastricht University
+      orcid_id: 0000-0003-0265-4545
+base_url: https://ml4pp-blog.com/
+output:
+  distill::distill_article:
+    self_contained: false
+citation: false
+rss:
+  full_content: true
+---
+
+## First post of 2024!
+
+The session on Neural Networks is the last session of the course, and the precursor to the Collaborative Policy Challenge where, hopefully, you'll apply one of the algorithms that you have learned here. You'll notice that the applied neural network exercise is a classification problem. But, in the video, Robin (or Prof. Cowan) used various examples using images (a horse, and other farm animals). This is because one of the very many things a neural network can do is read the pixel values in an image. So, you can actually use a neural network to predict images! We've not done that in the session, but it is a possibility. An paper that generates interesting insights for voting behaviour is [Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States](https://www.pnas.org/doi/10.1073/pnas.1700035114). They use Google Street View images and neural networks for their prediction model. Neural Networks are very popular today, they're also very flexible, but as Robin pointed out in his video, and in the applied exercise, the algorithm is (a very nice) tool, and it is still subject to the same data challenges that plague the use and misuse of machine learning algorithms. Hopefully, you've enjoyed Robin's lesson as much as we have. You can reproduce the R code - as is - by requesting the SHARE dataset from the website. If you've been following the Python sessions, please reach out to me (Michelle), as we've used the already clean dataset - so, to replicate the code, you'll need a few more steps beyond requesting access to the data. 
+
+Finally, let me remind you all that the Collaborative Policy Challenge on Human Mobility (with an emphasis on forced displacement) set by the Innovation Office of UNHCR is upcoming! In the next couple of weeks we'll invite you to the live session with the Lead Data Scientist, [Rebeca Moreno Jiménez](https://www.weforum.org/people/rebeca-moreno-jimenez/), and open the month-long challenge to be tackled in teams. If you cannot join the live-zoom session, the recording will be posten on the ML4PP website, as always. 
+
+Happy coding, and looking forward to the policy challenge! 
